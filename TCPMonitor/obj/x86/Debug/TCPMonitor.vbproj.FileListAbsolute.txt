@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\MyVBPrograms(Desktop)\TCPMonitor\TCPMonitor\TCPMonitor\bin\Debug\TCPMonitor.exe
+C:\Users\Admin\Desktop\MyVBPrograms(Desktop)\TCPMonitor\TCPMonitor\TCPMonitor\bin\Debug\TCPMonitor.pdb
+C:\Users\Admin\Desktop\MyVBPrograms(Desktop)\TCPMonitor\TCPMonitor\TCPMonitor\bin\Debug\TCPMonitor.xml
+C:\Users\Admin\Desktop\MyVBPrograms(Desktop)\TCPMonitor\TCPMonitor\TCPMonitor\obj\x86\Debug\TCPMonitor.frmmain.resources
+C:\Users\Admin\Desktop\MyVBPrograms(Desktop)\TCPMonitor\TCPMonitor\TCPMonitor\obj\x86\Debug\TCPMonitor.Resources.resources
+C:\Users\Admin\Desktop\MyVBPrograms(Desktop)\TCPMonitor\TCPMonitor\TCPMonitor\obj\x86\Debug\TCPMonitor.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\MyVBPrograms(Desktop)\TCPMonitor\TCPMonitor\TCPMonitor\obj\x86\Debug\TCPMonitor.exe
+C:\Users\Admin\Desktop\MyVBPrograms(Desktop)\TCPMonitor\TCPMonitor\TCPMonitor\obj\x86\Debug\TCPMonitor.xml
+C:\Users\Admin\Desktop\MyVBPrograms(Desktop)\TCPMonitor\TCPMonitor\TCPMonitor\obj\x86\Debug\TCPMonitor.pdb
