@@ -5,6 +5,6 @@
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/SaherBlueEagle/TCPMonitor/refs/heads/main/tcpmonitor.pg" ><br>
+<img src="https://raw.githubusercontent.com/SaherBlueEagle/TCPMonitor/refs/heads/main/tcpmonitor.png" ><br>
 
 </p>
